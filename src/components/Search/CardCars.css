@@ -1,0 +1,78 @@
+.search-card {
+    background: #ffffff;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8% !important;
+    font-family: "Helvetica";
+    font-style: normal;
+    color: #000000;
+    width:100%;
+  }
+  
+  .search-card img {
+    border-radius: 5%;
+  }
+  
+  .search-card svg {
+    margin-right: 10px;
+  }
+  
+  .search-card span {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .search-card button {
+    margin-top: -8px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  
+.search-card button:hover {
+    transform: none;
+  }
+  
+.imgku{
+max-height: 180px;
+object-fit: cover
+}
+
+.img-card{
+    height: 400px;
+}
+
+.card-body{
+    height: 700px;
+    margin-bottom: 50px;
+}
+.card-deck{
+    height: 400px;
+}
+
+.cars-section{
+    padding-top: 97px;
+    padding-left: 136px;
+    padding-right: 136px;
+    /* height: 800px; */
+}
+
+.cards{
+    height: 700px;
+    margin-bottom: 50px;
+}
+
+.card-body img{
+    height: 400px;
+}
+
+.col-section{
+    height: 750px;
+}
+
+.tombol{
+    color: white;
+    background-color: #5CB85F;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: 700;
+}

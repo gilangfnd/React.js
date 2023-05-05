@@ -1,0 +1,43 @@
+.navbar{
+    padding: 0;
+    padding: 24px 16px;
+    font-size: 14px;
+}
+
+.navbar .navbar-nav a{
+    color: #000000;
+}
+
+.navbar .navbar-nav a:hover{
+    color: #cccccc;
+}
+.nav-color{
+    background-color: #F1F3FF;
+    transition: all ease-in-out 0.3s;
+}
+
+.navbar-brand{
+    background-color: #0D28A6;
+    width: 100px;
+    height: 34px;
+}
+
+.navbar-nav .nav-link{
+    margin-right: 32px;
+}
+
+.tombol{
+    color: white;
+    background-color: #5CB85F;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+@media screen and (min-width:994px) {
+
+    /*Navbar*/
+    .navbar{
+        padding: 20px 136px 20px 136px;
+    }
+}
