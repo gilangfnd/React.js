@@ -2,6 +2,12 @@
 
 React Application
 
-## Story
+## Note
 
-I convert from html project to React Project In Progress
+```
+npm install
+```
+
+```
+npm start
+```
